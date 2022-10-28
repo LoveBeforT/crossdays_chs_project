@@ -1,0 +1,10 @@
+[SkipFRAME]="01:42:23";
+
+[PlaySe]="00:00:00, 1, BGM/Vocal/CDV01, 01:42:23";
+
+[PlayMovie]="00:00:00, Movie02/02-00/CrossDaysOP, 0, 01:42:23";
+
+ ;
+
+[Next]="01:42:23";
+
